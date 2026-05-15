@@ -57,7 +57,8 @@ The project focuses on evaluating voting trends, party performance, candidate co
 - 📒 Election data analysis.ipynb
 - 📊 Election data sample.csv
 - 📝 README.md
-
+- 
+---
 
 ## ✅ Conclusion
 The project successfully demonstrates how data analytics and visualization techniques can be used to interpret election outcomes, voting behavior, and political trends across multiple Indian states.
