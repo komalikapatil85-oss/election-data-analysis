@@ -1,4 +1,4 @@
-# 📊 Election Data Analysis & Visualization (2019)
+# 📊 Election Data Analysis (2019)
 
 ## 📌 Overview
 This project presents an analytical study of the Indian General Election data 2019 using Statistical Analysis, Tableau Visualizations, and SQL (Google BigQuery).
@@ -51,6 +51,14 @@ The project focuses on evaluating voting trends, party performance, candidate co
 - Interactive Election Dashboard
 
 ---
+
+## 📁 Files Included
+- 📒 election_data_analysis_2019.ipynb  
+- 📄 filtered_election_2019_states.csv  
+- 📄 state_wise_votes_2019.csv  
+- 📄 README.md  
+
+
 
 ## ✅ Conclusion
 The project successfully demonstrates how data analytics and visualization techniques can be used to interpret election outcomes, voting behavior, and political trends across multiple Indian states.
