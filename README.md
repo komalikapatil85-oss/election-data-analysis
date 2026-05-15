@@ -11,10 +11,7 @@ This project analyzes election data to identify voting trends, party performance
 - Vote percentage analysis
 - Party-wise performance
 - Charts and dashboards
-- Data visualization
-
-## 📷 Project Screenshots
-(Add screenshots here)
+- Data visualizations
 
 ## ✅ Conclusion
 This project helps understand election trends and voter behavior.
