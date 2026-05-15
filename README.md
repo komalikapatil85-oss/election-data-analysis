@@ -53,11 +53,10 @@ The project focuses on evaluating voting trends, party performance, candidate co
 ---
 
 ## 📁 Files Included
-- 📒 election_data_analysis_2019.ipynb  
-- 📄 filtered_election_2019_states.csv  
-- 📄 state_wise_votes_2019.csv  
-- 📄 README.md  
-
+- 📄 Election Data Analysis Project.pdf
+- 📒 Election data analysis.ipynb
+- 📊 Election data sample.csv
+- 📝 README.md
 
 
 ## ✅ Conclusion
