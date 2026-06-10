@@ -111,8 +111,8 @@ The project includes SQL queries for advanced election data analysis, including:
 
 - 📓 Election_Data_Analysis_Pandas.ipynb → Python Pandas analysis notebook  
 - 🗄️ SQL_Queries.sql → SQL queries for data analysis  
-- 📊 Election data sample.csv → Dataset used for analysis  
-- 📄 Election Data Analysis Project.pdf → Detailed project report  
+- 📊 Election_Results_2019_Sample.csv→ Dataset used for analysis  
+- 📄 Election_Data_Analysis_Project.pdf → Detailed project report  
 - 📝 README.md → Project documentation  
 
 ---
